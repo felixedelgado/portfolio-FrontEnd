@@ -1,0 +1,53 @@
+div.redes {
+    /* align-content: flex-end; */
+    /* float: right; */
+    text-align: right;
+}
+
+.redes {
+    position: relative;
+    top: 25%;
+}
+
+div.banner {
+    height: 200px;
+    width: 100%;
+    background:radial-gradient(yellow, green, black);
+}
+
+/* div.perfil {
+    width: 400px;
+    height: 400px;
+    image-rendering:;
+} */
+
+img.perfil {
+    max-width: 80px;
+    max-width: 80px;
+    border-radius: 50%!important;
+    position: relative;
+    top: 160px;
+    left: 5%;
+}
+
+div.infor {
+    position: relative;
+    bottom: 5%;
+    top: 60px;
+}
+
+div.container1 {
+    height: 400px;
+}
+
+div.ajustar {
+    width: 100%!important;
+}
+
+div.barsup {
+    background-color: gray!important;
+}
+
+img.logo {
+    width: 90px;
+}
