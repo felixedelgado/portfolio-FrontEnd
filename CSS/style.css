@@ -15,11 +15,11 @@ div.banner {
     background:radial-gradient(yellow, green, black);
 }
 
-div.perfil {
-    /* width: 400px; */
-    /* height: 400px; */
-    /* image-rendering:; */
-}
+/* div.perfil {
+    width: 400px;
+    height: 400px;
+    image-rendering:;
+} */
 
 img.perfil {
     max-width: 80px;
