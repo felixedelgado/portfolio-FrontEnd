@@ -1,0 +1,14 @@
+{
+    "nombre":"Felix",
+    "apellido":"Delgado",
+    "edad":27,
+    "contacto":{
+        "numerocelular":543,
+        "email":"email@gmail.com",
+        "linkedin":"linkedin"
+    },
+    "experiencias":{
+        "estudios":"universidad",
+        "trabajo":"ayudante de laboratorio"
+    }
+}
